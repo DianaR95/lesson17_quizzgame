@@ -50,4 +50,5 @@ def login(path: str = "users.json"):
     else:
         return new_user
 
+
     return {user: users[user]}
