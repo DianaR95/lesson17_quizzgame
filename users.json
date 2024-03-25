@@ -8,7 +8,7 @@
         "password": "123"
     },
     "jack": {
-        "full_name": "jack"
+        "full_name": "jack",
     "high_score": 0,
     "password": "1234"}
 }
