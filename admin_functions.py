@@ -31,7 +31,6 @@ def add_questions(all_questions: list, questions_path: str = "questions.json"):
 def delete_question():
     pass
 
-
 def change_correct_answer():
     pass
 
