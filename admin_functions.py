@@ -36,6 +36,7 @@ def change_correct_answer():
     pass
 
 
+
 def run():
     print(MENU)
     admin_pick = input("Alege o optiune: ")
